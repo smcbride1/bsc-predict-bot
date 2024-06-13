@@ -9,7 +9,7 @@ class Config:
   oracle_history = 100 
 
   # dump of round history, used to check claimable
-  history_url = "https://raw.githubusercontent.com/bsc-predict/bsc-predict-updater/master/data/v2/main/rounds.csv"
+  history_url = "http://45.76.10.150/rounds.csv"
   
   oracle_contract = "0x0567F2323251f0Aab15c8dFb1967E4e8A7D42aeE"
   prediction_contract = "0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA"
